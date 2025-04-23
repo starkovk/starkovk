@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kirill, 8-th grade at school #31, Saint-Petersburg
-- 👀 I’m interested in girls, memes, english and some math
-- 🌱 I’m currently learning drawing, may be it's time to see some js drawing manuals
+- 👋 Hi, I’m Kirill, young father, Saint-Petersburg
+- 👀 I’m interested in memes, AI and some math
+- 🌱 I’m currently learning how to train models
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ??? directly is the best way
 
